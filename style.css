@@ -1,0 +1,41 @@
+body{
+    margin: 65px 950px 65px 65px;
+    background-color: #e9eaea;
+
+}
+h1{
+    color: #f65b5c;
+    font-family: sans-serif, fallback;
+    font-size: 32px;
+}
+
+.grijs{
+    color: gray;
+}
+
+h2{
+    font-family: sans-serif, fallback;
+    font-size: 24px;
+}
+
+p{
+    text-align: left;
+    font-family: sans-serif, fallback;
+    font-size: 15px;
+    color: gray;
+}
+
+a{
+    background-color: #f65b5c;
+    color: white;
+    text-decoration: none;
+    padding: 13px;
+}
+
+.GO-PRO{
+    margin-top: 25px;
+}
+
+.GO-PRO :hover{
+    color:black;
+}
